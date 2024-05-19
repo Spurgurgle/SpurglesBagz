@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{48227708ACDBDC24}Spur_BagZ/gui/imagesets/Spur_Slots.tga"
+ Author "spurgs-pc"
+ ChangeDate 419293900
+ Configurations {
+  TGAResourceClass PC {
+   SourceFile "Spur_Slots.tga"
+  }
+  TGAResourceClass XBOX_ONE : PC {
+  }
+  TGAResourceClass PS4 : PC {
+  }
+  TGAResourceClass LINUX : PC {
+  }
+ }
+}

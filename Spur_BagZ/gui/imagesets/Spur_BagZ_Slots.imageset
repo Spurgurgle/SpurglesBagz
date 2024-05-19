@@ -1,0 +1,26 @@
+ImageSetClass {
+ Name "Spur_BagZ_Slots"
+ RefSize 2048 2048
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{48227708ACDBDC24}Spur_BagZ/gui/imagesets/Spur_Slots.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass BladeSlot {
+   Name "BladeSlot"
+   Pos 35 21
+   Size 300 300
+   Flags 0
+  }
+  ImageSetDefClass Whetstone {
+   Name "Whetstone"
+   Pos 335 9
+   Size 300 300
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{60C6D3CDD1AC1C43}Spur_BagZ/BagZlogo.edds"
+ Author "spurgs-pc"
+ ChangeDate -2006160720
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "BagZlogo.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
